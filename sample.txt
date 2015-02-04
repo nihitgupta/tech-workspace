@@ -1,0 +1,21 @@
+GIT Commands
+
+
+$ git config --global user.name "Nihit Gupta"
+$ git config --global user.email nihit.iceman@gmail.com
+$ git config --global core.editor emacs
+$ git config --list
+$ git help <verb>
+$ git <verb> --help
+$ man git-<verb>
+
+$ git init
+
+$ git add *.c
+$ git add LICENSE
+$ git commit -m 'initial project version'
+
+
+
+
+
