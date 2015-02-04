@@ -16,6 +16,4 @@ $ git add LICENSE
 $ git commit -m 'initial project version'
 
 
-
-
-
+sample edits
